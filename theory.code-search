@@ -1,0 +1,91 @@
+# Query: theory
+# ContextLines: 1
+
+20 results - 13 files
+
+public/index.html:
+  134                  
+  135:                 <a href="/categories/%e6%8e%a2%e7%b4%a2%e6%96%b0%e7%90%86%e8%ab%96"
+  136                    class="text-primary">探索新理論</a>
+
+  294          <li><a
+  295:             href="/categories/theory/">探索新理論</a>
+  296          </li>
+
+public/sitemap.xml:
+  16    </url><url>
+  17:     <loc>http://localhost:49268/categories/THEORY/</loc>
+  18      <lastmod>2025-03-22T00:00:00+00:00</lastmod>
+
+public/blog/index.html:
+  131          
+  132:         <a href="/categories/theory"
+  133              class="text-primary">探索新理論</a>
+
+  276          <li><a
+  277:             href="/categories/theory/">探索新理論</a>
+  278          </li>
+
+public/blog/page/2/index.html:
+  171          <li><a
+  172:             href="/categories/theory/">探索新理論</a>
+  173          </li>
+
+public/blog/post-7/index.html:
+  124          
+  125:         <a href="/categories/theory"
+  126            class="text-primary">探索新理論</a>
+
+public/categories/index.html:
+  131          
+  132:         <a href="http://localhost:49268/categories/THEORY/" class="h3 d-block my-3">探索新理論</a>
+  133          <div class="mb-3 post-meta">
+
+  204          <li><a
+  205:             href="/categories/theory/">探索新理論</a>
+  206          </li>
+
+public/categories/index.xml:
+  12        <title>探索新理論</title>
+  13:       <link>http://localhost:49268/categories/theory/</link>
+  14        <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
+  15:       <guid>http://localhost:49268/categories/theory/</guid>
+  16        <description></description>
+
+public/categories/探索新理論/index.xml:
+   4      <title>探索新理論 on ATELIER ELÉNE</title>
+   5:     <link>http://localhost:49268/categories/THEORY/</link>
+   6      <description>Recent content in 探索新理論 on ATELIER ELÉNE</description>
+
+   9      <lastBuildDate>Sat, 22 Mar 2025 00:00:00 +0000</lastBuildDate>
+  10:     <atom:link href="http://localhost:49268/categories/THEORY/index.xml" rel="self" type="application/rss+xml" />
+  11      <item>
+
+public/categories/探索新理論/page/1/index.html:
+  3    <head>
+  4:     <title>http://localhost:49268/categories/theory/</title>
+  5:     <link rel="canonical" href="http://localhost:49268/categories/THEORY/">
+  6      <meta name="robots" content="noindex">
+  7      <meta charset="utf-8">
+  8:     <meta http-equiv="refresh" content="0; url=http://localhost:49268/categories/THEORY/">
+  9    </head>
+
+public/categories/特殊選才專區/index.html:
+  255          <li><a
+  256:             href="/categories/theory/">探索新理論</a>
+  257          </li>
+
+public/categories/閱讀書摘/index.html:
+  171          <li><a
+  172:             href="/categories/theory/">探索新理論</a>
+  173          </li>
+
+public/page/2/index.html:
+  174          <li><a
+  175:             href="/categories/theory/">探索新理論</a>
+  176          </li>
+
+public/tags/index.html:
+  150          <li><a
+  151:             href="/categories/theory/">探索新理論</a>
+  152          </li>

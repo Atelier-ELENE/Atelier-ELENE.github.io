@@ -1,0 +1,70 @@
+# Query: theory
+# Flags: CaseSensitive
+# ContextLines: 1
+
+14 results - 11 files
+
+public/index.html:
+  134                  
+  135:                 <a href="/categories/%e6%8e%a2%e7%b4%a2%e6%96%b0%e7%90%86%e8%ab%96"
+  136                    class="text-primary">探索新理論</a>
+
+  294          <li><a
+  295:             href="/categories/%e6%8e%a2%e7%b4%a2%e6%96%b0%e7%90%86%e8%ab%96/">探索新理論</a>
+  296          </li>
+
+public/blog/index.html:
+  131          
+  132:         <a href="/categories/%e6%8e%a2%e7%b4%a2%e6%96%b0%e7%90%86%e8%ab%96"
+  133              class="text-primary">探索新理論</a>
+
+  276          <li><a
+  277:             href="/categories/%e6%8e%a2%e7%b4%a2%e6%96%b0%e7%90%86%e8%ab%96/">探索新理論</a>
+  278          </li>
+
+public/blog/page/2/index.html:
+  171          <li><a
+  172:             href="/categories/%e6%8e%a2%e7%b4%a2%e6%96%b0%e7%90%86%e8%ab%96/">探索新理論</a>
+  173          </li>
+
+public/blog/post-7/index.html:
+  124          
+  125:         <a href="/categories/%e6%8e%a2%e7%b4%a2%e6%96%b0%e7%90%86%e8%ab%96"
+  126            class="text-primary">探索新理論</a>
+
+public/categories/index.html:
+  204          <li><a
+  205:             href="/categories/%e6%8e%a2%e7%b4%a2%e6%96%b0%e7%90%86%e8%ab%96/">探索新理論</a>
+  206          </li>
+
+public/categories/index.xml:
+  12        <title>探索新理論</title>
+  13:       <link>http://localhost:49268/categories/%e6%8e%a2%e7%b4%a2%e6%96%b0%e7%90%86%e8%ab%96/</link>
+  14        <pubDate>Sat, 22 Mar 2025 00:00:00 +0000</pubDate>
+  15:       <guid>http://localhost:49268/categories/%e6%8e%a2%e7%b4%a2%e6%96%b0%e7%90%86%e8%ab%96/</guid>
+  16        <description></description>
+
+public/categories/探索新理論/page/1/index.html:
+  3    <head>
+  4:     <title>http://localhost:49268/categories/%e6%8e%a2%e7%b4%a2%e6%96%b0%e7%90%86%e8%ab%96/</title>
+  5      <link rel="canonical" href="http://localhost:49268/categories/%e6%8e%a2%e7%b4%a2%e6%96%b0%e7%90%86%e8%ab%96/">
+
+public/categories/特殊選才專區/index.html:
+  255          <li><a
+  256:             href="/categories/%e6%8e%a2%e7%b4%a2%e6%96%b0%e7%90%86%e8%ab%96/">探索新理論</a>
+  257          </li>
+
+public/categories/閱讀書摘/index.html:
+  171          <li><a
+  172:             href="/categories/%e6%8e%a2%e7%b4%a2%e6%96%b0%e7%90%86%e8%ab%96/">探索新理論</a>
+  173          </li>
+
+public/page/2/index.html:
+  174          <li><a
+  175:             href="/categories/%e6%8e%a2%e7%b4%a2%e6%96%b0%e7%90%86%e8%ab%96/">探索新理論</a>
+  176          </li>
+
+public/tags/index.html:
+  150          <li><a
+  151:             href="/categories/%e6%8e%a2%e7%b4%a2%e6%96%b0%e7%90%86%e8%ab%96/">探索新理論</a>
+  152          </li>
